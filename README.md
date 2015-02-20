@@ -8,6 +8,8 @@ Dojo - http://dojotoolkit.org/ <br>
 Create loading gifs - http://www.ajaxload.info/ <br>
 JavaScript/HTML/CSS Beautifier - http://jsbeautifier.org/ <br>
 Extent Helper - http://psstl.esri.com/apps/extenthelper/ <br>
+Module Builder - http://swingley.github.io/arg/ <br>
+Writing Modular JavaScript With AMD - http://addyosmani.com/writing-modular-js/ <br>
 
 <b>Links to Rest Services</b><br>
 http://sampleserver6.arcgisonline.com/arcgis/rest/services <br>
